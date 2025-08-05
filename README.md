@@ -3,7 +3,8 @@
 Traffic Accident Data Analysis Dashboard
 
 Streamlit App link:https://yuandry-streamlit-project-stream-txqcpc.streamlit.app/
-Live video:https://yuandry-streamlit-project-stream-txqcpc.streamlit.app/
+
+Live video:[https://yuandry-streamlit-project-stream-txqcpc.streamlit.app/](https://youtube.com/shorts/WOT5veXOsIs?si=yYaptxaMj24N0iUd)
 
 
 
