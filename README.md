@@ -27,20 +27,15 @@ Number of Deaths
 Number of Injuries
 
 Accident Density Map (Pydeck)
-Displays a map of accident locations using Kernel Density Estimation (KDE). Density is color-coded:
+Displays a map of accident locations using Kernel Density Estimation (KDE). 
+Density is color-coded:
 
-Green = Low
-
-Red = High
-
-Purple = Extreme Hotspot
+Green = Low/Red = High/Purple = Extreme Hotspot
 
 Casualty Trends Over Time
 Users can view a time series line chart of either:
 
-Deaths over time
-
-Injuries over time
+Deaths over time/Injuries over time
 
 Technologies Used:
 streamlit – for building the interactive web interface
