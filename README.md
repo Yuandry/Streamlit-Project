@@ -6,14 +6,16 @@ Streamlit App link:https://yuandry-streamlit-project-stream-txqcpc.streamlit.app
 
 
 
-Project Overview
+Project Overview:
+
 This is an interactive web application built with Python and Streamlit that allows users to explore traffic accident data through visualizations, filters, and data analysis tools. The goal is to help users understand accident trends and spatial distribution more easily.
 
 Key Features:
+
 Date Range Selection
 Users can select a custom date range to filter accident records within a specific period.
 
-Filtered Data Table
+Filtered Data Table:
 After filtering, a table shows detailed accident data including:
 
 Date
