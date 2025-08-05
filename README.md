@@ -60,5 +60,6 @@ pydeck – for rendering interactive maps
 └── README.md              # Project documentation
 
 How to Run Locally:
+
 pip install -r requirements.txt
 streamlit run STREAM.py
