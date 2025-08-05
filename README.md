@@ -1,6 +1,7 @@
 # Streamlit-Project
 
 Traffic Accident Data Analysis Dashboard
+
 Streamlit App link:https://yuandry-streamlit-project-stream-txqcpc.streamlit.app/
 
 
@@ -53,8 +54,11 @@ pydeck – for rendering interactive maps
  File Structure:
 .
 ├── STREAM.py              # Main Streamlit application script
+
 ├── OpenData.csv           # Source dataset (CSV format)
+
 ├── requirements.txt       # Python dependencies
+
 └── README.md              # Project documentation
 
 How to Run Locally:
